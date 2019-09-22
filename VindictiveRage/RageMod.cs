@@ -19,6 +19,8 @@ namespace VindictiveRage
 
     public class RageMod : BaseUnityPlugin
     {
+        ItemIndex rageID = (ItemIndex)ItemLib.ItemLib.GetItemId("Vindictive Rage");
+
         void Start()
         {
             IL.RoR2.CharacterBody.RecalculateStats += CharacterBody_RecalculateStats;
@@ -28,36 +30,40 @@ namespace VindictiveRage
             int locNumber = 0;
             ILCursor grrsor = new ILCursor(il);
             grrsor.GotoNext(
-                x => x.MatchLdarg(0),
-                x => x.MatchLdloc(out locNumber)
+                x => x.MatchLdloc(out locNumber),
+                x => x.MatchCallvirt<CharacterBody>("set_damage")
                 );
-            grrsor.Index += 1;
             grrsor.Emit(OpCodes.Ldloc, locNumber);
             grrsor.Emit(OpCodes.Ldarg, 0);
             grrsor.EmitDelegate<Func<float, RoR2.CharacterBody, float>>(
                 (currentMultiplier, self) =>
                 {
                     if (self.inventory)
-                        currentMultiplier += (self.inventory.GetItemCount((ItemIndex)ItemLib.ItemLib.GetItemId("Vindictive Rage")) * (1-(self.healthComponent.shield + self.healthComponent.health)/self.healthComponent.fullCombinedHealth) * 2);
+                        currentMultiplier += (self.inventory.GetItemCount(rageID) * (1-(self.healthComponent.shield + self.healthComponent.health)/self.healthComponent.fullCombinedHealth) * 2);
                     return currentMultiplier;
                 }
                 );
             grrsor.Emit(OpCodes.Stloc, locNumber);
         }
 
+        //Cheaty Cheaty dev code
         public void Update()
         {
             if (Input.GetKeyDown(KeyCode.F2))
             {
                 var transform = PlayerCharacterMasterController.instances[0].master.GetBodyObject().transform;
-                PickupDropletController.CreatePickupDroplet(PickupIndex.Find("ItemIndex.Count"), transform.position, transform.forward * 20f);
+                PickupDropletController.CreatePickupDroplet(PickupIndex.Find(rageID.ToString()), transform.position, transform.forward * 20f);
             }
         }
+
+        //Create the fields for various aesthetic aspects of Rage.
         public static UnityEngine.AssetBundle daisy;
         public static UnityEngine.GameObject model;
         public static UnityEngine.Object icon;
         private static ItemDisplayRule[] _itemDisplayRules;
 
+        //Declares that the following method is an item.
+        [Item(ItemAttribute.ItemType.Item)]
         public static ItemLib.CustomItem HurtMePlenty()
         {
             ItemDef HurtMePlenty = new ItemDef
