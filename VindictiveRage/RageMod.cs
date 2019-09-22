@@ -19,7 +19,9 @@ namespace VindictiveRage
 
     public class RageMod : BaseUnityPlugin
     {
-        ItemIndex rageID = (ItemIndex)ItemLib.ItemLib.GetItemId("Vindictive Rage");
+
+        public static string name = "Vindictive Rage";
+        ItemIndex rageID = (ItemIndex)ItemLib.ItemLib.GetItemId(name);
 
         void Start()
         {
@@ -44,6 +46,9 @@ namespace VindictiveRage
                 }
                 );
             grrsor.Emit(OpCodes.Stloc, locNumber);
+            Debug.Log(il);
+            Debug.Log(locNumber);
+            
         }
 
         //Cheaty Cheaty dev code
@@ -52,7 +57,7 @@ namespace VindictiveRage
             if (Input.GetKeyDown(KeyCode.F2))
             {
                 var transform = PlayerCharacterMasterController.instances[0].master.GetBodyObject().transform;
-                PickupDropletController.CreatePickupDroplet(PickupIndex.Find(rageID.ToString()), transform.position, transform.forward * 20f);
+                PickupDropletController.CreatePickupDroplet(new PickupIndex(rageID), transform.position, transform.forward * 20f);
             }
         }
 
@@ -71,7 +76,7 @@ namespace VindictiveRage
                 tier = ItemTier.Tier3,
                 pickupModelPath = "",
                 pickupIconPath = "",
-                nameToken = "Vindictive Rage",
+                nameToken = name,
                 pickupToken = "This pain will make me stronger.",
                 descriptionToken = "At low health, go completely nutters."
             };
