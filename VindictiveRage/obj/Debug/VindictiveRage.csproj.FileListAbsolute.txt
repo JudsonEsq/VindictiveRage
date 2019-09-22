@@ -1,0 +1,193 @@
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\VindictiveRage.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\VindictiveRage.pdb
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\0Harmony.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Assembly-CSharp.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\BepInEx.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\BepInEx.Harmony.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\BepInEx.Preloader.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Facepunch.Steamworks.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\ItemLib.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\KdTreeLib.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\MMBAIT.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Mono.Cecil.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\MonoMod.Utils.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\pb_Stl.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Poly2Tri.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\ProBuilderCore.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\ProBuilderMeshOps.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\R2API.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Rewired_Core.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Rewired_CSharp.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Rewired_Windows_Lib.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.Networking.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UI.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Wwise.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\bin\Debug\Zio.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\obj\Debug\VindictiveRage.csprojAssemblyReference.cache
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\obj\Debug\VindictiveRage.csproj.CoreCompileInputs.cache
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\obj\Debug\VindictiveRage.csproj.CopyComplete
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\obj\Debug\VindictiveRage.dll
+C:\Users\judic\OneDrive\Desktop\VindictiveRage\VindictiveRage\obj\Debug\VindictiveRage.pdb
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\VindictiveRage.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\VindictiveRage.pdb
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\0Harmony.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Assembly-CSharp.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\BepInEx.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\BepInEx.Harmony.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\BepInEx.Preloader.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Facepunch.Steamworks.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\KdTreeLib.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\MMBAIT.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Mono.Cecil.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\MonoMod.Utils.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\pb_Stl.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Poly2Tri.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\ProBuilderCore.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\ProBuilderMeshOps.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\R2API.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Rewired_Core.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Rewired_CSharp.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Rewired_Windows_Lib.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.Networking.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UI.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Wwise.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\bin\Debug\Zio.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\obj\Debug\VindictiveRage.csprojAssemblyReference.cache
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\obj\Debug\VindictiveRage.csproj.CoreCompileInputs.cache
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\obj\Debug\VindictiveRage.csproj.CopyComplete
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\obj\Debug\VindictiveRage.dll
+C:\Users\judic\OneDrive\Desktop\Risk of Rain 2 Mods\VindictiveRage\VindictiveRage\obj\Debug\VindictiveRage.pdb
