@@ -38,17 +38,30 @@ namespace VindictiveRage
             grrsor.Emit(OpCodes.Ldloc, locNumber);
             grrsor.Emit(OpCodes.Ldarg, 0);
             grrsor.EmitDelegate<Func<float, RoR2.CharacterBody, float>>(
-                (currentMultiplier, self) =>
+                (currentDamage, self) =>
                 {
                     if (self.inventory)
-                        currentMultiplier += (self.inventory.GetItemCount(rageID) * (1-(self.healthComponent.shield + self.healthComponent.health)/self.healthComponent.fullCombinedHealth) * 2);
-                    return currentMultiplier;
+                        currentDamage *= (self.inventory.GetItemCount(rageID) * (1-(self.healthComponent.shield + self.healthComponent.health)/self.healthComponent.fullCombinedHealth)) + 1;
+                    return currentDamage;
                 }
                 );
             grrsor.Emit(OpCodes.Stloc, locNumber);
-            Debug.Log(il);
-            Debug.Log(locNumber);
-            
+
+            grrsor.GotoNext(
+                x => x.MatchLdloc(out locNumber),
+                x => x.MatchCallvirt<CharacterBody>("set_attackSpeed")
+                );
+            grrsor.Emit(OpCodes.Ldloc, locNumber);
+            grrsor.Emit(OpCodes.Ldarg, 0);
+            grrsor.EmitDelegate<Func<float, RoR2.CharacterBody, float>>(
+                (currentAttackSpeed, self) =>
+                {
+                    if (self.inventory)
+                        currentAttackSpeed *= (self.inventory.GetItemCount(rageID) * (1 - (self.healthComponent.shield + self.healthComponent.health) / self.healthComponent.fullCombinedHealth)) + 1;
+                    return currentAttackSpeed;
+                }
+                );
+            grrsor.Emit(OpCodes.Stloc, locNumber);
         }
 
         //Cheaty Cheaty dev code
